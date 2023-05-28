@@ -1,2 +1,2 @@
-# BozdoganArayuz
- Bozdogan Rocket Team Arayuz
+# BozdoganUI
+ Bozdogan Rocket Team UI
